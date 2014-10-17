@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pha:home|Door43 (pha)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pha|d43-pha repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pha/archive/master.zip|d43-pha.zip]]
+
+**Recent Changes**
+{{changes>ns = pha}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pha|Ethnologue data]]
+
